@@ -29,6 +29,35 @@ Asi comprobamos que ya este inicializada o ejecutandose:
 <img width="1920" height="1080" alt="SextaCapInstancias" src="https://github.com/user-attachments/assets/2916551e-a70a-471d-aeeb-08a1dcdc3ddb" />
 
 
+Ahora vamos a asociarle una ip Elastica: 
+
+Primero pinchamos donde pone "Direcciones ip Elasticas":
+<img width="1920" height="1080" alt="PrimeraCapIPPublica" src="https://github.com/user-attachments/assets/6a93a82f-83d1-48ba-8e21-a3308ebb2e73" />
+
+Ahora le damos a "asignar direccion ip elastica":
+<img width="1920" height="1080" alt="SegundaCapIPPublica" src="https://github.com/user-attachments/assets/1bacab14-9c42-4fe2-bdf5-6c898c5983e1" />
+
+Pulsamos el boton de asignar: 
+<img width="1920" height="1080" alt="TerceraCapIPPublica" src="https://github.com/user-attachments/assets/e559d6bd-6041-40bf-9e3d-88cb2b200c63" />
+
+Y nos arriba nos sale un mensajito en verde: 
+<img width="1920" height="1080" alt="CuartaCapIPPublica" src="https://github.com/user-attachments/assets/80b50d70-d0f3-4b99-af0f-4b96ac02a30b" />
+
+Lo pulsamos para asociar la ip elastica y a su vez señalamos la instancia que hemos creado:
+<img width="1920" height="1080" alt="QuintaCapIPPublica" src="https://github.com/user-attachments/assets/5133f6bc-31b7-4315-8cae-a26225c92d93" />
+
+Pulsamos el boton de asociar y ariiba nos saldra un mensajito en verde diciendo que se ha asociado correctamente:
+<img width="1920" height="1080" alt="SextaCapIPPublica" src="https://github.com/user-attachments/assets/c362f851-7ccb-41b8-9425-a3f47f8c07e2" />
+
+
+
+
+
+
+
+
+
+
 
 
 
