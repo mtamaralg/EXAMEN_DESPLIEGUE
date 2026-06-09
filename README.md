@@ -64,6 +64,13 @@ Ahora vamos a pasar a usar el VS:
 Primero para que podamos acceder de forma remota debemos tener esto escrito: 
 <img width="1920" height="1080" alt="1VS" src="https://github.com/user-attachments/assets/741a033a-0133-455a-b72c-dfc3975e0d02" />
 
+Ahora creamos una carpeta que por defecto nos saldra con estos archivos:
+<img width="1920" height="1080" alt="2VS" src="https://github.com/user-attachments/assets/2b92c194-aa42-4bcb-abc7-91172a5f3aeb" />
+
+
+
+
+
 
 
 
