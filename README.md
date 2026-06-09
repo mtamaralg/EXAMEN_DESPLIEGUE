@@ -59,6 +59,15 @@ Si pulsamos nos apareceran archivos para descargar y nosotros vamos a descargar 
 <img width="1920" height="1080" alt="SegundaCapAjustes" src="https://github.com/user-attachments/assets/e2bee74f-99d7-465c-9bd9-3d4b32526d80" />
 
 
+Ahora vamos a pasar a usar el VS:
+
+Primero para que podamos acceder de forma remota debemos tener esto escrito: 
+<img width="1920" height="1080" alt="1VS" src="https://github.com/user-attachments/assets/741a033a-0133-455a-b72c-dfc3975e0d02" />
+
+
+
+
+
 
 
 
