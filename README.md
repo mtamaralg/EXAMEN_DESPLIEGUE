@@ -67,6 +67,18 @@ Primero para que podamos acceder de forma remota debemos tener esto escrito:
 Ahora creamos una carpeta que por defecto nos saldra con estos archivos:
 <img width="1920" height="1080" alt="2VS" src="https://github.com/user-attachments/assets/2b92c194-aa42-4bcb-abc7-91172a5f3aeb" />
 
+Ahora vamos a nuestro git y copiamos este enlace https://github.com/mtamaralg/EXAMEN_DESPLIEGUE.git: 
+<img width="1920" height="1080" alt="3VS" src="https://github.com/user-attachments/assets/7c72eb6f-d481-4624-83ce-92b3f7c2263f" />
+
+Hacemos un git clone https://github.com/mtamaralg/EXAMEN_DESPLIEGUE.git y asi ya tenemos la carpeta en la que vamos a trabajar:
+<img width="1920" height="1080" alt="4vs" src="https://github.com/user-attachments/assets/2eed6a80-1e85-4b88-9bef-384482889088" />
+
+
+
+
+
+
+
 
 
 
