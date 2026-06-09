@@ -50,6 +50,17 @@ Pulsamos el boton de asociar y ariiba nos saldra un mensajito en verde diciendo 
 <img width="1920" height="1080" alt="SextaCapIPPublica" src="https://github.com/user-attachments/assets/c362f851-7ccb-41b8-9425-a3f47f8c07e2" />
 
 
+Ahora para poder abrir por conexion remota en el visual studio debemos hacer unos ajustes:
+
+Empezamos volviendo a la pagina de lanzamiento del laboratorio y buscando el botoncito donde pone AWS details: 
+<img width="1920" height="1080" alt="PrimeraCapAjustes" src="https://github.com/user-attachments/assets/9ba6920f-7a3a-4a4e-a6a4-f17f0f88ef81" />
+
+Si pulsamos nos apareceran archivos para descargar y nosotros vamos a descargar el archivo .pem:
+<img width="1920" height="1080" alt="SegundaCapAjustes" src="https://github.com/user-attachments/assets/e2bee74f-99d7-465c-9bd9-3d4b32526d80" />
+
+
+
+
 
 
 
